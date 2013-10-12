@@ -1,4 +1,4 @@
 pureDatabase
 ============
 
-lightweight php Databse API
+PHP Factory Database Access API
